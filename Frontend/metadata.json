@@ -1,0 +1,6 @@
+{
+  "name": "BANKISM — Blue-Team AI Banking Firewall",
+  "description": "Blue-Team AI Banking Firewall & Fraud Intelligence Platform protecting financial operations from prompt injection, jailbreaks, and transaction fraud with a two-brain security architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
