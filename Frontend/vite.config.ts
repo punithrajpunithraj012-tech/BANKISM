@@ -8,6 +8,6 @@ export default defineConfig({
   resolve: { alias: { '@': path.resolve(__dirname, '.') } },
   server: {
     port: 5173,
-    proxy: { '/api': { target: 'http://localhost:3000', changeOrigin: true } }
+    proxy: { '/api': { target: 'https://bankism-4g68.onrender.com', changeOrigin: true } }
   }
 });
